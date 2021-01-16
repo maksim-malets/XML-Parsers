@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0897455-0cc2-41a6-8f69-ca5f3194b197" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="TestNG Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VcE2zy2hAweQJO1cOm2l2eu5G3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="test.java.xml.validator" />
+      <recent name="test.java.xml.builder" />
+      <recent name="main.java.xml.builder" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Desktop\Java Epam\task3_XML\src" />
+      <recent name="C:\Users\USER\Desktop\Java Epam\task3_XML\src\main\java\xml" />
+      <recent name="C:\Users\USER\Desktop\Java Epam\task3_XML" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.GemsSAXBuilderTest">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.xml.Main" />
+      <module name="task3_XML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.xml.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GemsDOMBuilderTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="task3_XML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.xml.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.xml.builder" />
+      <option name="MAIN_CLASS_NAME" value="test.java.xml.builder.GemsDOMBuilderTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GemsSAXBuilderTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="task3_XML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.xml.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.xml.builder" />
+      <option name="MAIN_CLASS_NAME" value="test.java.xml.builder.GemsSAXBuilderTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GemsStAXBuilderTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="task3_XML" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.xml.builder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.java.xml.builder" />
+      <option name="MAIN_CLASS_NAME" value="test.java.xml.builder.GemsStAXBuilderTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.GemsSAXBuilderTest" />
+        <item itemvalue="TestNG.GemsStAXBuilderTest" />
+        <item itemvalue="TestNG.GemsDOMBuilderTest" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0897455-0cc2-41a6-8f69-ca5f3194b197" name="Default Changelist" comment="" />
+      <created>1577543779694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577543779694</updated>
+      <workItem from="1578736676400" duration="2291000" />
+      <workItem from="1578851533242" duration="1833000" />
+      <workItem from="1578901776012" duration="3975000" />
+      <workItem from="1578934560735" duration="2049000" />
+      <workItem from="1579202925870" duration="5472000" />
+      <workItem from="1579713177506" duration="344000" />
+      <workItem from="1579794618209" duration="391000" />
+      <workItem from="1579802414268" duration="2089000" />
+      <workItem from="1605900863562" duration="2320000" />
+      <workItem from="1606216284518" duration="1837000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="209" y="109" key="new project wizard" timestamp="1605900970347">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="109" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1605900970347" />
+  </component>
+</project>

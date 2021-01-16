@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.example.com/gems"
+        xmlns:tns="http://www.example.com/gems"
+        elementFormDefault="qualified">
+    <element name="gems">
+        <complexType>
+            <sequence>
+                <element name="gem"
+                         type="tns:Gem"
+                         minOccurs="2"
+                         maxOccurs="unbounded"/>
+            </sequence>
+        </complexType>
+    </element>
+    <complexType name="Gem">
+        <sequence>
+            <element name="origin" type="string"/>
+            <element name="value">
+                <simpleType>
+                    <restriction base="string">
+                        <pattern value="[\d]*[.,]?[\d]"/>
+                    </restriction>
+                </simpleType>
+            </element>
+            <element name="parameters" type="tns:Parameters"/>
+        </sequence>
+        <attribute name="name" use="required">
+            <simpleType>
+                <restriction base="ID">
+                    <pattern value="[a-zA-Z]{4,13}"/>
+                </restriction>
+            </simpleType>
+        </attribute>
+        <attribute name="preciousness" use="optional" default="unknown">
+            <simpleType>
+                <restriction base="string">
+                    <enumeration value="unknown"/>
+                    <enumeration value="precious"/>
+                    <enumeration value="semi-precious"/>
+                </restriction>
+            </simpleType>
+        </attribute>
+        <attribute name="date" use="required">
+            <simpleType>
+                <restriction base="date">
+                </restriction>
+            </simpleType>
+        </attribute>
+    </complexType>
+    <complexType name="Parameters">
+        <sequence>
+            <element name="color">
+                <simpleType>
+                    <restriction base="string">
+                        <enumeration value="green"/>
+                        <enumeration value="blue"/>
+                        <enumeration value="red"/>
+                        <enumeration value="purple"/>
+                        <enumeration value="white"/>
+                        <enumeration value="black"/>
+                        <enumeration value="gold"/>
+                        <enumeration value="pink"/>
+                    </restriction>
+                </simpleType>
+            </element>
+            <element name="gemcutter">
+                <simpleType>
+                    <restriction base="positiveInteger">
+                        <maxInclusive value="15"/>
+                        <minInclusive value="4"/>
+                    </restriction>
+                </simpleType>
+            </element>
+            <element name="transparency">
+                <simpleType>
+                    <restriction base="integer">
+                        <maxInclusive value="100"/>
+                        <minInclusive value="0"/>
+                    </restriction>
+                </simpleType>
+            </element>
+        </sequence>
+    </complexType>
+</schema>

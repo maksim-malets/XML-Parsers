@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gems xmlns="http://www.example.com/gems">
+    <gem name="emerald" date="2019-02-07" preciousness="precious">
+        <origin>USA</origin>
+        <value>2</value>
+        <parameters>
+            <color>green</color>
+            <gemcutter>12</gemcutter>
+            <transparency>19</transparency>
+        </parameters>
+    </gem>
+    <gem name="amethyst" date="2017-08-03" preciousness="precious">
+        <origin>Canada</origin>
+        <value>4</value>
+        <parameters>
+            <color>purple</color>
+            <gemcutter>11</gemcutter>
+            <transparency>54</transparency>
+        </parameters>
+    </gem>
+    <gem name="citrine" date="2018-12-25" preciousness="semi-precious">
+        <origin>Australia</origin>
+        <value>10.5</value>
+        <parameters>
+            <color>gold</color>
+            <gemcutter>5</gemcutter>
+            <transparency>19</transparency>
+        </parameters>
+    </gem>
+    <gem name="garnet" date="2018-07-19" preciousness="semi-precious">
+        <origin>New Zealand</origin>
+        <value>1</value>
+        <parameters>
+            <color>red</color>
+            <gemcutter>13</gemcutter>
+            <transparency>33</transparency>
+        </parameters>
+    </gem>
+    <gem name="malachite" date="2018-03-12" preciousness="semi-precious">
+        <origin>Mexico</origin>
+        <value>3</value>
+        <parameters>
+            <color>green</color>
+            <gemcutter>10</gemcutter>
+            <transparency>17</transparency>
+        </parameters>
+    </gem>
+    <gem name="ruby" date="2019-11-30" preciousness="precious">
+        <origin>Germany</origin>
+        <value>8.5</value>
+        <parameters>
+            <color>pink</color>
+            <gemcutter>15</gemcutter>
+            <transparency>8</transparency>
+        </parameters>
+    </gem>
+    <gem name="obsidian" date="2017-11-29">
+        <origin>Switzerland</origin>
+        <value>9</value>
+        <parameters>
+            <color>black</color>
+            <gemcutter>9</gemcutter>
+            <transparency>9</transparency>
+        </parameters>
+    </gem>
+    <gem name="moonstone" date="2017-01-10" preciousness="semi-precious">
+        <origin>Sweden</origin>
+        <value>6.5</value>
+        <parameters>
+            <color>white</color>
+            <gemcutter>4</gemcutter>
+            <transparency>73</transparency>
+        </parameters>
+    </gem>
+    <gem name="pearl" date="2019-03-17">
+        <origin>Australia</origin>
+        <value>7</value>
+        <parameters>
+            <color>gold</color>
+            <gemcutter>8</gemcutter>
+            <transparency>0</transparency>
+        </parameters>
+    </gem>
+    <gem name="sapphire" date="2019-12-01" preciousness="precious">
+        <origin>USA</origin>
+        <value>10</value>
+        <parameters>
+            <color>black</color>
+            <gemcutter>8</gemcutter>
+            <transparency>16</transparency>
+        </parameters>
+    </gem>
+    <gem name="jade" date="2018-04-06" preciousness="semi-precious">
+        <origin>Canada</origin>
+        <value>12</value>
+        <parameters>
+            <color>green</color>
+            <gemcutter>7</gemcutter>
+            <transparency>89</transparency>
+        </parameters>
+    </gem>
+    <gem name="tansanite" date="2018-08-28">
+        <origin>Australia</origin>
+        <value>19</value>
+        <parameters>
+            <color>blue</color>
+            <gemcutter>6</gemcutter>
+            <transparency>43</transparency>
+        </parameters>
+    </gem>
+    <gem name="quartz" date="2018-09-30" preciousness="semi-precious">
+        <origin>Russia</origin>
+        <value>6</value>
+        <parameters>
+            <color>pink</color>
+            <gemcutter>6</gemcutter>
+            <transparency>91</transparency>
+        </parameters>
+    </gem>
+    <gem name="diamond" date="2017-07-31" preciousness="precious">
+        <origin>New Zealand</origin>
+        <value>8</value>
+        <parameters>
+            <color>white</color>
+            <gemcutter>12</gemcutter>
+            <transparency>97</transparency>
+        </parameters>
+    </gem>
+    <gem name="onyx" date="2019-04-16" preciousness="semi-precious">
+        <origin>Mexico</origin>
+        <value>3</value>
+        <parameters>
+            <color>black</color>
+            <gemcutter>14</gemcutter>
+            <transparency>0</transparency>
+        </parameters>
+    </gem>
+    <gem name="aquamarine" date="2019-12-23" preciousness="semi-precious">
+        <origin>Italy</origin>
+        <value>1.5</value>
+        <parameters>
+            <color>green</color>
+            <gemcutter>7</gemcutter>
+            <transparency>35</transparency>
+        </parameters>
+    </gem>
+</gems>
